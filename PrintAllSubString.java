@@ -3,8 +3,7 @@ package String_practise;
 public class PrintAllSubString 
 {
 	public static void main(String[] args) 
-	{
-		
+	{	
 		String str = "abcdef";
 		printsubstring(str);
 	}
