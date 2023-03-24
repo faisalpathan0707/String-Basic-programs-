@@ -9,7 +9,6 @@ public class FirstLetterofString
 		String str ="Hello Fais Pathan ";
 		returnFirstAlphabates (str);
 	}
-
 	public static void returnFirstAlphabates(String str) 
 	{
 		String word="";
